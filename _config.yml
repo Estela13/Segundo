@@ -1,15 +1,15 @@
-title:             Square Zero
-email:             sssurajsuraj@gmail.com
+title:             Shadows
+email:             stela.13@hotmail.es
 description:       Silent Observations
-author:            J
+author:            E
 #url:               "localhost:4000"
 url:               "http://squarezero.github.io/"
 baseurl:
 
 # Social Profiles
-#twitter_username:  SBootstrap
-#github_username:   BlackrockDigital
-#facebook_username: StartBootstrap
+#twitter_username:  MsSnot
+#github_username:   Estela13
+#facebook_username: Estela Bravo
 
 # Build settings
 markdown:          kramdown
